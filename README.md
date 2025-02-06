@@ -3,6 +3,15 @@
 This is a simple school management system implemented in Java. The system uses **aggregation** to model relationships between entities such as schools, departments, teachers, and students. It demonstrates how to manage collections of objects and handle normal and edge cases.
 
 ---
+**Main**
+
+![image](https://github.com/user-attachments/assets/771dcd21-34ab-4800-8bde-e7fa1b0ef628)
+
+
+**TestHarness** 
+
+![image](https://github.com/user-attachments/assets/42b452bb-9b8c-4ae6-b112-8984d5d6a9aa)
+
 
 ## Features
 
